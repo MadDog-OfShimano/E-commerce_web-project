@@ -3,3 +3,4 @@ WARNING!!!!
 Due to some npm issues and dependency issues;
 The "npm start" doesnt work, because instead its redefined as "npm run dev".
 They are functionally the same.
+download both files with similar names and extract in the same directory.
